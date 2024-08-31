@@ -10,7 +10,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasangicomplex&show_icons=true&locale=en" alt="hasangicomplex" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasangicomplex&" alt="hasangicomplex" /></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
